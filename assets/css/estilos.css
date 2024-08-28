@@ -1,0 +1,6 @@
+.custom-carousel {
+    width: 80%; /* Ajusta el tamaño al 80% del contenedor padre */
+    max-width: 800px; /* Tamaño máximo para evitar que se haga demasiado grande */
+    margin: auto; /* Centrar el carrusel horizontalmente */
+}
+
