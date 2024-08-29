@@ -4,3 +4,12 @@
     margin: auto; /* Centrar el carrusel horizontalmente */
 }
 
+@media only screen and (min-width: 768px) { 
+    #footcolor {
+        background-color: aqua !important;
+    }
+    #contenedorForm {
+        background-color: orange;
+    }
+}
+
